@@ -6,7 +6,7 @@ namespace Condicional_If_Else
     {
         static void Main(string[] args)
         {
-            int x = 10;
+            /*int x = 10;
             Console.WriteLine("Bom dia");
             if (x < 5)
             {
@@ -22,7 +22,21 @@ namespace Condicional_If_Else
                 Console.WriteLine("Par!");
             }
             else
-                Console.WriteLine("Impar!");
+                Console.WriteLine("Impar!"); */
+
+            Console.WriteLine("Qual a hora atual?");
+            int hora = int.Parse(Console.ReadLine());
+
+            if (hora < 12)
+            {
+                Console.WriteLine("Bom dia!");
+            }
+            else if (hora < 18)
+                Console.WriteLine("Boa Tarde!");
+            else
+            {
+                Console.WriteLine("Boa Noite!");
+            }
         }
     }
 }
