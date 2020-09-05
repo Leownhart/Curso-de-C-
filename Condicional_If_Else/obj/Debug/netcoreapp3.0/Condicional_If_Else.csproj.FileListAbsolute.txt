@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\bin\Debug\netcoreapp3.0\Condicional_If_Else.exe
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\bin\Debug\netcoreapp3.0\Condicional_If_Else.deps.json
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\bin\Debug\netcoreapp3.0\Condicional_If_Else.runtimeconfig.json
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\bin\Debug\netcoreapp3.0\Condicional_If_Else.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\bin\Debug\netcoreapp3.0\Condicional_If_Else.dll
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\bin\Debug\netcoreapp3.0\Condicional_If_Else.pdb
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\obj\Debug\netcoreapp3.0\Condicional_If_Else.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\obj\Debug\netcoreapp3.0\Condicional_If_Else.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\obj\Debug\netcoreapp3.0\Condicional_If_Else.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\obj\Debug\netcoreapp3.0\Condicional_If_Else.dll
+C:\Users\Usuario\Desktop\Curso de C#\Condicional_If_Else\obj\Debug\netcoreapp3.0\Condicional_If_Else.pdb
