@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.exe
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.deps.json
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.runtimeconfig.json
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.dll
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\bin\Debug\netcoreapp3.0\Primeiro.pdb
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.dll
+C:\Users\Usuario\Desktop\Curso de C#\Primeiro\obj\Debug\netcoreapp3.0\Primeiro.pdb
