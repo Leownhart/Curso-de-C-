@@ -7,7 +7,7 @@ namespace Exercicios_Fix
         static void Main(string[] args)
         {
             /* Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma
-             * desses valores com uma mesagem explicativa.*/
+             * desses valores com uma mensagem explicativa.*/
 
             int n1, n2, n3, soma;
             Console.WriteLine("Informe um número: ");
