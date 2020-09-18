@@ -1,0 +1,13 @@
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.AssemblyInfo.cs
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicios_Fix.exe
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicios_Fix.deps.json
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicios_Fix.runtimeconfig.json
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicios_Fix.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicios_Fix.dll
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicios_Fix.pdb
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.dll
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.pdb
+E:\Cursos\C-Sharp\Curso-de-C-\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicios_Fix.genruntimeconfig.cache

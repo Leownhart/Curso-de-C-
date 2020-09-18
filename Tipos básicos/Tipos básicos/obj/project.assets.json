@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cursos\\C-Sharp\\Tipos básicos\\Tipos básicos\\Tipos básicos.csproj",
+      "projectUniqueName": "E:\\Cursos\\C-Sharp\\Curso-de-C-\\Tipos básicos\\Tipos básicos\\Tipos básicos.csproj",
       "projectName": "Tipos básicos",
-      "projectPath": "E:\\Cursos\\C-Sharp\\Tipos básicos\\Tipos básicos\\Tipos básicos.csproj",
+      "projectPath": "E:\\Cursos\\C-Sharp\\Curso-de-C-\\Tipos básicos\\Tipos básicos\\Tipos básicos.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "E:\\Cursos\\C-Sharp\\Tipos básicos\\Tipos básicos\\obj\\",
+      "outputPath": "E:\\Cursos\\C-Sharp\\Curso-de-C-\\Tipos básicos\\Tipos básicos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
